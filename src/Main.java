@@ -4,7 +4,7 @@ public class Main {
         //Setting values of the variables
         crud.setCR("jdbc:mysql://localhost:3306/crudandencap");
         crud.setUSER("root");
-        crud.setPASSWORD("Ferret345!");
+        crud.setPASSWORD("*********");
 
         //Displaying values of the variables
         System.out.println(crud.getCR());
